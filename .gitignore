@@ -1,6 +1,3 @@
-./mp3/*
-./waves/*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
