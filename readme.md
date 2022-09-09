@@ -1,3 +1,6 @@
+# THIS REPO HAS BEEN ARCHIVED
+Due to the Guilded.py client api now being unsupported, this repo has been archived.
+
 # GUILDED MUSIC BOT
 
 > ## NOTES
